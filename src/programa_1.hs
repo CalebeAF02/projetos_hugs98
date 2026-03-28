@@ -23,6 +23,7 @@ analisarNumero n = if n > 0
                         then "Negativo" 
                         else "Zero"
 
+-- Uma função que classifica uma nota utilizando (switch) 
 classificarNota :: Int -> String
 classificarNota nota
     | nota >= 7  = "Aprovado"
