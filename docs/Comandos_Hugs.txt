@@ -1,0 +1,9 @@
+Para executar o programa : 
+
+    hugs.exe NOME_DO_ARQUIVO.hs
+
+
+Para Limpar a tela : 
+
+    :!cls
+
