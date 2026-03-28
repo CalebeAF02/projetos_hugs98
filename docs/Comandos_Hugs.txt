@@ -7,3 +7,10 @@ Para Limpar a tela :
 
     :!cls
 
+Para recarregar o arquivo :
+
+    :r (use sempre que salvar o código no VS Code)
+
+Para ver o tipo de uma função :
+
+    :t nomeDaFuncao
