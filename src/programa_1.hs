@@ -1,7 +1,8 @@
 module Programa_1 where
 
--- Autor: Calebe Alves Freitas 
--- Data:  28/03/2026
+-- Instituição  : UnB - Departamento de Ciência da Computação (CIC)
+-- Autor        : Calebe Alves Freitas 
+-- Data         : 28/03/2026
 
 -- Uma função simples de soma
 soma :: Int -> Int -> Int
