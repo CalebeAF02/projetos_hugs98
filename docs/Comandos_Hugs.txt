@@ -1,7 +1,26 @@
-Para executar o programa : 
+Para executar so o arquivo:
+
+    runhugs main.hs
+
+    *Pois neste arquivo não definimos o modulo do arquivo!
+
+
+Para executar o programa e o hugs : 
 
     hugs.exe NOME_DO_ARQUIVO.hs
 
+    ou
+
+    hugs NOME_DO_ARQUIVO.hs
+
+Para importar:
+
+    arquivo :
+        import NOME_DO_ARQUIVO
+
+    pasta
+        import NOME_DA_PASTA_._NOME_DO_ARQUIVO
+            * Se o arquivo tiver dentro de uma pasta deve mudar o nome do modulo! ex: module Aulas.Parte_1 where
 
 Para Limpar a tela : 
 
