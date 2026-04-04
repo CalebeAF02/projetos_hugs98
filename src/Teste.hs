@@ -1,4 +1,4 @@
-module Programa_1 where
+module Teste where
 
 -- Instituição  : UnB - Departamento de Ciência da Computação (CIC)
 -- Autor        : Calebe Alves Freitas 

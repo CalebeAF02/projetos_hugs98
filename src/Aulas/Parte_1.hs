@@ -1,4 +1,4 @@
-module Parte_1 where
+module Aulas.Parte_1 where
 
 -- Instituição  : UnB - Departamento de Ciência da Computação (CIC)
 -- Autor        : Calebe Alves Freitas 
@@ -13,8 +13,8 @@ somaConstante =
     let soma a b = a+b in soma 3 5
 
 -- função soma_argumento recebendo valores por argumentos
-somaArgumento :: Int -> Int -> Int
-somaArgumento a b = 
+soma_2 :: Int -> Int -> Int
+soma_2 a b = 
     let soma a b = a+b in soma a b
 
 -- função subtrai recebendo valores por argumentos
@@ -100,3 +100,5 @@ mesclar (item:outra_lista) lista = item : mesclar outra_lista lista
 -- Definição da constante lista
 lista :: [Int]
 lista = mesclar [1,5] [10,20]
+
+
